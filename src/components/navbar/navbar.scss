@@ -1,0 +1,79 @@
+.nav {
+  padding: 20px 0;
+  border-bottom: 1px solid var(--dark-border);
+  background-color: var(--nav-bg);
+  color: var(--text-color);
+  letter-spacing: normal;
+  position: sticky; 
+  top: 0; 
+  z-index: 1000; 
+
+  &__row {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+
+    @media (min-width: 768px) {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      column-gap: 40px;
+      row-gap: 20px;
+      flex-wrap: wrap;
+      justify-content: space-between
+    }
+  }
+
+  &__logo {
+    margin-right: auto;
+    color: var(--text-color);
+    font-size: 14px;
+    font-family: "Poppins", system-ui;
+
+    & strong {
+      font-weight: 700;
+    }
+
+    @media (min-width: 320px) {
+      font-size: 16px;
+    }
+
+    @media (min-width: 768px) {
+      font-size: 18px;
+    }
+  }
+
+  &__list {
+    order: 1;
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Poppins", system-ui;
+
+    @media (min-width: 768px) {
+      order: 0;
+      font-size: 16px;
+    }
+  }
+
+  &__item {
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  &__link {
+    color: var(--text-color);
+    transition: opacity 0.2s ease-in;
+
+    &--active::after {
+      content: '';
+      display: block;
+      height: 2px;
+      width: 100%;
+      background-color: var(--accent);
+    }
+  }
+}
