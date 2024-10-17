@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-developer-portfolio-react/static/css/main.016ac30b.css",
-    "main.js": "/frontend-developer-portfolio-react/static/js/main.da1be758.js",
+    "main.css": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css",
+    "main.js": "/frontend-developer-portfolio-react/static/js/main.93d27935.js",
     "static/js/453.b5e0bcdb.chunk.js": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js",
     "static/media/bose-6.png": "/frontend-developer-portfolio-react/static/media/bose-6.30b40276abfc24ad13d7.png",
     "static/media/bose-1.png": "/frontend-developer-portfolio-react/static/media/bose-1.d5b756fbfe28d8dfbfbe.png",
@@ -38,17 +38,17 @@
     "static/media/header_bg_light.png": "/frontend-developer-portfolio-react/static/media/header_bg_light.18730efc28281152a2a1.png",
     "static/media/sun.svg": "/frontend-developer-portfolio-react/static/media/sun.51393a375a81e44f27f1e33d713ca0ae.svg",
     "static/media/moon.svg": "/frontend-developer-portfolio-react/static/media/moon.a84eb240a8739f0ef02594df4c131706.svg",
-    "static/media/gitHub.svg": "/frontend-developer-portfolio-react/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/linkedIn.svg": "/frontend-developer-portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "static/media/gitHub.svg": "/frontend-developer-portfolio-react/static/media/gitHub.fb29d77709804fa08e02f02c2cde0d7f.svg",
+    "static/media/linkedIn.svg": "/frontend-developer-portfolio-react/static/media/linkedIn.262cf6ce3eff02869a5ee0a330d9feb9.svg",
     "index.html": "/frontend-developer-portfolio-react/index.html",
     "static/media/demo.svg": "/frontend-developer-portfolio-react/static/media/demo.2023f3f8bf99a9453203d72e7fd73ffb.svg",
     "static/media/play.svg": "/frontend-developer-portfolio-react/static/media/play.3172dfd900fd138e56ba2fbe0805e545.svg",
-    "main.016ac30b.css.map": "/frontend-developer-portfolio-react/static/css/main.016ac30b.css.map",
-    "main.da1be758.js.map": "/frontend-developer-portfolio-react/static/js/main.da1be758.js.map",
+    "main.f0b029f0.css.map": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css.map",
+    "main.93d27935.js.map": "/frontend-developer-portfolio-react/static/js/main.93d27935.js.map",
     "453.b5e0bcdb.chunk.js.map": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.016ac30b.css",
-    "static/js/main.da1be758.js"
+    "static/css/main.f0b029f0.css",
+    "static/js/main.93d27935.js"
   ]
 }
