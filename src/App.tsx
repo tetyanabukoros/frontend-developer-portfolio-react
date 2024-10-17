@@ -5,7 +5,7 @@ import Home from './components/home/Home.tsx';
 import Projects from './components/projects/Projects';
 import Contacts from './components/contacts/Contacts.tsx';
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import ScrollToTop from './utils/scrollToTop';
 import ProjectDetails from './components/projectDetails/ProjectDetails';
 
