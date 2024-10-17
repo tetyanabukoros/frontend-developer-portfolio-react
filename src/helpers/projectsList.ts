@@ -28,12 +28,17 @@ import car2 from './../img/projects/car/car-2.png';
 import car3 from './../img/projects/car/car-3.png';
 import car4 from './../img/projects/car/car-4.png';
 import car5 from './../img/projects/car/car-5.png';
+import customerApp1 from './../img/projects/customer-app/customer-app-1.jpg';
+import customerApp2 from './../img/projects/customer-app/customer-app-2.jpg';
+import customerApp3 from './../img/projects/customer-app/customer-app-3.jpg';
+import customerApp4 from './../img/projects/customer-app/customer-app-4.jpg';
+import customerApp5 from './../img/projects/customer-app/customer-app-5.jpg';
 import { ProjectType } from '../components/types/project';
 
 const projects: ProjectType[] = [
   {
     id: 1,
-    title: '150Minuten website',
+    title: '150Minuten Website',
     skills: ['React Gatsby', 'Contentful', 'GraphQL', 'TypeScript', 'Google workspace', 'Vimeo', 'AWS', 'Swiper', 'core-js', 'Hotjar'],
     img: website150min2,
     gitHubLink: null,
@@ -43,7 +48,7 @@ const projects: ProjectType[] = [
     description: 'As a Frontend Developer, I built 150minuten.de from the ground up using React, Gatsby, and GraphQL, integrating Contentful as the content management system. I quickly mastered Gatsby and GraphQL queries to create reusable components, enhancing both development efficiency and site functionality. A key highlight of this project was enabling non-technical users to manage site content effortlessly without touching the code. This experience not only demonstrated my proficiency in pixel-perfect design but also showcased my adaptability in utilizing modern web technologies effectively.'
   },
   {
-    id: 5,
+    id: 6,
     title: 'Kickstarter landing page',
     skills: ['HTML', 'SCSS', 'JS', 'Mobile first', 'Google Font API'],
     img: kickstarter1,
@@ -54,7 +59,7 @@ const projects: ProjectType[] = [
     description: 'This landing pages represent one of my early works as a web developer, showcasing my skills in creating adaptive, pixel-perfect layouts. Each project demonstrates my ability to design responsive websites that provide an optimal viewing experience across various devices. Through these projects, I have refined my proficiency in HTML, CSS, and JavaScript, focusing on clean code and user-friendly interfaces.'
   },
   {
-    id: 3,
+    id: 4,
     title: 'React app users with API',
     skills: ['React', 'TypeScript', 'Material-UI (MUI)', 'Framer Motion', 'React Beautiful DnD', 'SASS'],
     img: userApp4,
@@ -65,7 +70,7 @@ const projects: ProjectType[] = [
     description: 'This React application allows users to display, filter, and manage a list of users retrieved from an open API. The app features customizable pagination with options for displaying 5, 10, 50, 100 users, or all at once. Users can sort data by name, date of birth, city, and also use a custom drag-and-drop sorting option. Filtering is available by gender, age, and name. The app supports editing personal information via an "Edit" button and updates upon confirmation. Additionally, users can be deleted from the list. The app is designed primarily for desktop use and is not optimized for mobile devices.'
   },
   {
-    id: 4,
+    id: 5,
     title: 'Bose landing page',
     skills: ['HTML', 'SCSS', 'JS', 'Mobile first', 'Google Font API'],
     img: bose1,
@@ -76,7 +81,7 @@ const projects: ProjectType[] = [
     description: 'This landing pages represent one of my early works as a web developer, showcasing my skills in creating adaptive, pixel-perfect layouts. Each project demonstrates my ability to design responsive websites that provide an optimal viewing experience across various devices. Through these projects, I have refined my proficiency in HTML, CSS, and JavaScript, focusing on clean code and user-friendly interfaces.'
   },
   {
-    id: 6,
+    id: 7,
     title: 'Rent car landing page',
     skills: ['HTML', 'SCSS/Sass', 'JavaScript', 'Bootstrap', 'ESLint', 'Stylelint'],
     img: car1,
@@ -87,8 +92,8 @@ const projects: ProjectType[] = [
     description: 'This landing pages represent one of my early works as a web developer, showcasing my skills in creating adaptive, pixel-perfect layouts. Each project demonstrates my ability to design responsive websites that provide an optimal viewing experience across various devices. Through these projects, I have refined my proficiency in HTML, CSS, and JavaScript, focusing on clean code and user-friendly interfaces.'
   },
   {
-    id: 2,
-    title: 'Administration Pannel',
+    id: 3,
+    title: 'Media Upload Dashboard & Admin Control Panel',
     skills: ['Angular CLI', 'TypeScript', 'SCSS', 'Bootstrap', 'HTTP Client', 'HAL', 'Webpack', 'Karma/Jasmine'],
     img: adminPannel,
     gitHubLink: null,
@@ -96,6 +101,17 @@ const projects: ProjectType[] = [
     videoLink: 'https://youtu.be/46mOshdcFtk',
     images: [adminPannel1, adminPannel2, adminPannel3, adminPannel4],
     description: 'This is an admin panel that includes managing a list of videos, including uploading videos, uploading thumbnails, changing the order of videos in the list, editing descriptions, selecting a trainer from a dropdown menu, and choosing the category, level, and subscription tier. It also manages a list of managers, assigns roles to them, and allows editing of personal information. The panel is developed with a focus on technical functionality, built without a pre-existing design.The app is designed primarily for desktop use and is not optimized for mobile devices'
+  },
+  {
+    id: 2,
+    title: 'Workout Tracking and Video Library App',
+    skills: ['Angular CLI', 'TypeScript', 'SCSS', 'HTTP Client', 'HAL', 'Webpack', 'Karma/Jasmine'],
+    img: customerApp1,
+    gitHubLink: null,
+    demoLink: null,
+    videoLink: 'https://www.youtube.com/watch?v=zBmrG5mCRAQ',
+    images: [customerApp1, customerApp2, customerApp3, customerApp4, customerApp5],
+    description: 'This application allows users to track their workout sessions and view their workout history. I developed the workout tracking feature and implemented a video filtering system for selecting workout videos, including a favorites option for easy access. I also worked on the admin dashboard, where the video library is managed, enabling admins to control the videos displayed to users.'
   },
 ];
 
