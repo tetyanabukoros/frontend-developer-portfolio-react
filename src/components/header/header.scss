@@ -5,20 +5,25 @@
   background-image: var(--bg-image);
   background-repeat: no-repeat;
   background-size: calc(100vh - 100px);
-  background-position: center center;
+  background-position: left center;
   color: var(--project-card-text);
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
 
-  @media (max-width: 768px) {
-    min-height: unset;
+  @media (min-width: 768px) {
+    background-position: center center;
   }
 
   &__wrapper {
     padding: 0 15px;
     max-width: 660px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   &__text {
