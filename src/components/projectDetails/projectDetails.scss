@@ -37,18 +37,26 @@
 
   &__buttons {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     gap: 30px;
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+    }
   }
 
   &__tech-list {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
     list-style: none;
     padding: 0;
 
     @media (min-width: 768px) {
       flex-direction: row;
-      gap: 30px;
+      gap: 10px;
     }
 
     & li {
@@ -75,4 +83,3 @@
     transform: translateY(0);
   }
 }
-
