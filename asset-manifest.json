@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css",
-    "main.js": "/frontend-developer-portfolio-react/static/js/main.93d27935.js",
+    "main.js": "/frontend-developer-portfolio-react/static/js/main.c850d3e9.js",
     "static/js/453.b5e0bcdb.chunk.js": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js",
     "static/media/bose-6.png": "/frontend-developer-portfolio-react/static/media/bose-6.30b40276abfc24ad13d7.png",
     "static/media/bose-1.png": "/frontend-developer-portfolio-react/static/media/bose-1.d5b756fbfe28d8dfbfbe.png",
@@ -22,9 +22,14 @@
     "static/media/user-app-1.png": "/frontend-developer-portfolio-react/static/media/user-app-1.245c883cf007d80339e3.png",
     "static/media/admin-2.png": "/frontend-developer-portfolio-react/static/media/admin-2.6e4b2a06fa3b509175a0.png",
     "static/media/bose-5.png": "/frontend-developer-portfolio-react/static/media/bose-5.08bcace6e35a50047df4.png",
+    "static/media/customer-app-1.jpg": "/frontend-developer-portfolio-react/static/media/customer-app-1.59ffdefc0a930311a77a.jpg",
+    "static/media/customer-app-4.jpg": "/frontend-developer-portfolio-react/static/media/customer-app-4.3262b0611411204ab2e0.jpg",
+    "static/media/customer-app-3.jpg": "/frontend-developer-portfolio-react/static/media/customer-app-3.c4ea4ed2aa795172c472.jpg",
     "static/media/user-app-3.png": "/frontend-developer-portfolio-react/static/media/user-app-3.b31ce8d948d670d5f211.png",
     "static/media/user-app-4.png": "/frontend-developer-portfolio-react/static/media/user-app-4.1cd63fdaf62cfef93c5a.png",
+    "static/media/customer-app-5.jpg": "/frontend-developer-portfolio-react/static/media/customer-app-5.0b75995a47d363b8f09f.jpg",
     "static/media/car-3.png": "/frontend-developer-portfolio-react/static/media/car-3.21d0c40fdc335d5c99c5.png",
+    "static/media/customer-app-2.jpg": "/frontend-developer-portfolio-react/static/media/customer-app-2.c501a437b8e5629248ea.jpg",
     "static/media/150minuten-4.png": "/frontend-developer-portfolio-react/static/media/150minuten-4.df275ddbc427383a1067.png",
     "static/media/car-5.png": "/frontend-developer-portfolio-react/static/media/car-5.0ef795eb826920559a08.png",
     "static/media/kickstarter-4.png": "/frontend-developer-portfolio-react/static/media/kickstarter-4.f1dc48b61c8c83a3aeec.png",
@@ -44,11 +49,11 @@
     "static/media/demo.svg": "/frontend-developer-portfolio-react/static/media/demo.2023f3f8bf99a9453203d72e7fd73ffb.svg",
     "static/media/play.svg": "/frontend-developer-portfolio-react/static/media/play.3172dfd900fd138e56ba2fbe0805e545.svg",
     "main.f0b029f0.css.map": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css.map",
-    "main.93d27935.js.map": "/frontend-developer-portfolio-react/static/js/main.93d27935.js.map",
+    "main.c850d3e9.js.map": "/frontend-developer-portfolio-react/static/js/main.c850d3e9.js.map",
     "453.b5e0bcdb.chunk.js.map": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0b029f0.css",
-    "static/js/main.93d27935.js"
+    "static/js/main.c850d3e9.js"
   ]
 }
