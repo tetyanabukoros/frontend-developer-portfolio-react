@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css",
-    "main.js": "/frontend-developer-portfolio-react/static/js/main.c850d3e9.js",
+    "main.css": "/frontend-developer-portfolio-react/static/css/main.a6e6c37a.css",
+    "main.js": "/frontend-developer-portfolio-react/static/js/main.28c9ef38.js",
     "static/js/453.b5e0bcdb.chunk.js": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js",
     "static/media/bose-6.png": "/frontend-developer-portfolio-react/static/media/bose-6.30b40276abfc24ad13d7.png",
     "static/media/bose-1.png": "/frontend-developer-portfolio-react/static/media/bose-1.d5b756fbfe28d8dfbfbe.png",
@@ -48,12 +48,12 @@
     "index.html": "/frontend-developer-portfolio-react/index.html",
     "static/media/demo.svg": "/frontend-developer-portfolio-react/static/media/demo.2023f3f8bf99a9453203d72e7fd73ffb.svg",
     "static/media/play.svg": "/frontend-developer-portfolio-react/static/media/play.3172dfd900fd138e56ba2fbe0805e545.svg",
-    "main.f0b029f0.css.map": "/frontend-developer-portfolio-react/static/css/main.f0b029f0.css.map",
-    "main.c850d3e9.js.map": "/frontend-developer-portfolio-react/static/js/main.c850d3e9.js.map",
+    "main.a6e6c37a.css.map": "/frontend-developer-portfolio-react/static/css/main.a6e6c37a.css.map",
+    "main.28c9ef38.js.map": "/frontend-developer-portfolio-react/static/js/main.28c9ef38.js.map",
     "453.b5e0bcdb.chunk.js.map": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b029f0.css",
-    "static/js/main.c850d3e9.js"
+    "static/css/main.a6e6c37a.css",
+    "static/js/main.28c9ef38.js"
   ]
 }
