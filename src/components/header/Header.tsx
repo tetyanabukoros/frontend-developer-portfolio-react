@@ -19,7 +19,7 @@ const Header = () => {
         <a href={resume}
           download='Tetiana Bukoros CV Frontend'
           target="_blank"
-          className="header__btn skeleton-button"
+          className="skeleton-button header__btn "
           rel="noreferrer"
         >
           Download CV

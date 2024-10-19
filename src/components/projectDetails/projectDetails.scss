@@ -17,8 +17,6 @@
   &__swiper {
 
     &>* {
-      width: calc(100vw - 40px);
-      max-width: 1200px;
       height: 300px;
     }
 
@@ -43,6 +41,10 @@
 
     @media (min-width: 768px) {
       flex-direction: row;
+    }
+
+    *> {
+      background-color: var(--box-shadow);
     }
   }
 
@@ -74,6 +76,18 @@
         animation-delay: 0.3s;
       }
     }
+  }
+
+  &__description {
+    line-height: 1.5;
+    text-align: unset;
+    padding: 10px 40px;
+  }
+
+  &__description,
+  &__swiper {
+    width: calc(100vw - 40px);
+    max-width: 1200px;
   }
 }
 

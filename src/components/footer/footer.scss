@@ -3,6 +3,7 @@
   padding: 30px 0 25px;
   background-color: var(--nav-bg);
   color: var(--text-color);
+  border-top: 1px solid var(--dark-border);
 
   @media (max-width: 726px) {
     padding: 20px 0 10px;

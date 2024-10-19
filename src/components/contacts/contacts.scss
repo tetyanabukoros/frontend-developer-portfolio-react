@@ -1,0 +1,38 @@
+@import '../../styles/main.scss';
+
+.contacts {
+  background: var(--page-bg);
+  padding: 70px 0;
+
+  & a {
+    color: var(--accent);
+  }
+
+  & h2 {
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+}
+
+.contacts-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.contact-card {
+  width: 300px;
+  background: var(--header-bg);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: var(--box-shadow);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+}
+
+.contact-icon {
+  font-size: 20px;
+  color: var(--orange);
+  margin-bottom: 10px;
+}

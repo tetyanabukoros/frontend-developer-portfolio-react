@@ -14,7 +14,7 @@ import { useState } from 'react';
 
 const ProjectDetails = () => {
 
-  const [showDescription, setShowDescription] = useState(false);
+  const [showDescription, setShowDescription] = useState(true);
   const { id } = useParams();
   const project = projects.find((el) => el.id === Number(id));
 
@@ -76,17 +76,14 @@ const ProjectDetails = () => {
               loop={true}
               pagination={{ clickable: true }}
               scrollbar={{ draggable: true }}
-              onSlideChange={() => console.log('slide change')}
-              onSwiper={(swiper: any) => console.log(swiper)}
             >
               {images.map((el: string, i) => {
                 return (
-                  <SwiperSlide>
-                    <img key={i} src={el} alt={title} />
+                  <SwiperSlide key={i}>
+                    <img src={el} alt={title} />
                   </SwiperSlide>
                 )
               })}
-
             </Swiper>
           </div>}
 
