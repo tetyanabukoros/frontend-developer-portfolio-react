@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frontend-developer-portfolio-react/static/css/main.a6e6c37a.css",
-    "main.js": "/frontend-developer-portfolio-react/static/js/main.28c9ef38.js",
+    "main.js": "/frontend-developer-portfolio-react/static/js/main.9ac6d61c.js",
     "static/js/453.b5e0bcdb.chunk.js": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js",
     "static/media/bose-6.png": "/frontend-developer-portfolio-react/static/media/bose-6.30b40276abfc24ad13d7.png",
     "static/media/bose-1.png": "/frontend-developer-portfolio-react/static/media/bose-1.d5b756fbfe28d8dfbfbe.png",
@@ -35,7 +35,7 @@
     "static/media/kickstarter-4.png": "/frontend-developer-portfolio-react/static/media/kickstarter-4.f1dc48b61c8c83a3aeec.png",
     "static/media/kickstarter-2.png": "/frontend-developer-portfolio-react/static/media/kickstarter-2.430a6fbdf090785cf4da.png",
     "static/media/150minuten-3.png": "/frontend-developer-portfolio-react/static/media/150minuten-3.d4ed4a939e6f2f7433b5.png",
-    "static/media/CV_FE_Tetiana_Bukoros.pdf": "/frontend-developer-portfolio-react/static/media/CV_FE_Tetiana_Bukoros.0725dab6a61adaf15d2c.pdf",
+    "static/media/CV_FE_Tetiana_Bukoros.pdf": "/frontend-developer-portfolio-react/static/media/CV_FE_Tetiana_Bukoros.94e85a72f97e7192caa6.pdf",
     "static/media/kickstarter-1.jpg": "/frontend-developer-portfolio-react/static/media/kickstarter-1.f71b8ab777bda01b391c.jpg",
     "static/media/admin-pannel.jpg": "/frontend-developer-portfolio-react/static/media/admin-pannel.52e1734741cc541937c5.jpg",
     "static/media/bose-2.png": "/frontend-developer-portfolio-react/static/media/bose-2.bf1b040bd2e9ea409274.png",
@@ -49,11 +49,11 @@
     "static/media/demo.svg": "/frontend-developer-portfolio-react/static/media/demo.2023f3f8bf99a9453203d72e7fd73ffb.svg",
     "static/media/play.svg": "/frontend-developer-portfolio-react/static/media/play.3172dfd900fd138e56ba2fbe0805e545.svg",
     "main.a6e6c37a.css.map": "/frontend-developer-portfolio-react/static/css/main.a6e6c37a.css.map",
-    "main.28c9ef38.js.map": "/frontend-developer-portfolio-react/static/js/main.28c9ef38.js.map",
+    "main.9ac6d61c.js.map": "/frontend-developer-portfolio-react/static/js/main.9ac6d61c.js.map",
     "453.b5e0bcdb.chunk.js.map": "/frontend-developer-portfolio-react/static/js/453.b5e0bcdb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6e6c37a.css",
-    "static/js/main.28c9ef38.js"
+    "static/js/main.9ac6d61c.js"
   ]
 }
