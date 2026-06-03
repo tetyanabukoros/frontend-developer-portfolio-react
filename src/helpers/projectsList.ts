@@ -42,7 +42,7 @@ const projects: ProjectType[] = [
     skills: ['React Gatsby', 'Contentful', 'GraphQL', 'TypeScript', 'Google workspace', 'Vimeo', 'AWS', 'Swiper', 'core-js', 'Hotjar'],
     img: website150min2,
     gitHubLink: null,
-    demoLink: 'https://150minuten.de/',
+    demoLink: null,
     videoLink: 'https://www.youtube.com/watch?v=xPGM_hpEUBQ&feature=youtu.be',
     images: [website150min6, website150min7, website150min1, website150min2, website150min3, website150min4, website150min5],
     description: 'As a Frontend Developer, I built 150minuten.de from the ground up using React, Gatsby, and GraphQL, integrating Contentful as the content management system. I quickly mastered Gatsby and GraphQL queries to create reusable components, enhancing both development efficiency and site functionality. A key highlight of this project was enabling non-technical users to manage site content effortlessly without touching the code. This experience not only demonstrated my proficiency in pixel-perfect design but also showcased my adaptability in utilizing modern web technologies effectively.'
